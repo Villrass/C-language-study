@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C language study\\zuoye\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{0C3B7429-B6AA-4AE0-8EFB-63036671A44A}|Project2\\Project2.vcxproj|D:\\C language study\\zuoye\\Project2\\Project2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:1:0:{0C3B7429-B6AA-4AE0-8EFB-63036671A44A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3B7429-B6AA-4AE0-8EFB-63036671A44A}|Project2\\Project2.vcxproj|D:\\C language study\\zuoye\\Project2\\Project2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C3B7429-B6AA-4AE0-8EFB-63036671A44A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3B7429-B6AA-4AE0-8EFB-63036671A44A}|Project2\\Project2.vcxproj|D:\\C language study\\zuoye\\Project2\\Project2\\\u6E902.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C3B7429-B6AA-4AE0-8EFB-63036671A44A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\\u6E902.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{0C3B7429-B6AA-4AE0-8EFB-63036671A44A}|Project2\\Project2.vcxproj|D:\\C language study\\zuoye\\Project2\\Project2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:2:0:{0C3B7429-B6AA-4AE0-8EFB-63036671A44A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\C language study\\zuoye\\Project2\\Project2\\test.cpp",
+              "RelativeDocumentMoniker": "Project2\\test.cpp",
+              "ToolTip": "D:\\C language study\\zuoye\\Project2\\Project2\\test.cpp",
+              "RelativeToolTip": "Project2\\test.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T08:06:06.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\C language study\\zuoye\\Project2\\Project2\\test.cpp",
+              "RelativeDocumentMoniker": "Project2\\test.cpp",
+              "ToolTip": "D:\\C language study\\zuoye\\Project2\\Project2\\test.cpp",
+              "RelativeToolTip": "Project2\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-13T09:02:55.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u6E902.cpp",
+              "DocumentMoniker": "D:\\C language study\\zuoye\\Project2\\Project2\\\u6E902.cpp",
+              "RelativeDocumentMoniker": "Project2\\\u6E902.cpp",
+              "ToolTip": "D:\\C language study\\zuoye\\Project2\\Project2\\\u6E902.cpp",
+              "RelativeToolTip": "Project2\\\u6E902.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-12T11:38:43.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\C language study\\zuoye\\Project2\\Project2\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Project2\\\u6E90.cpp",
+              "ToolTip": "D:\\C language study\\zuoye\\Project2\\Project2\\\u6E90.cpp",
+              "RelativeToolTip": "Project2\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-10T10:48:59.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
