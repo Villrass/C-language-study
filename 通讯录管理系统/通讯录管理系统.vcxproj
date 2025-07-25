@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="源.cpp" />
+    <ClCompile Include="源1.cpp" />
+    <ClCompile Include="源2.cpp" />
+    <ClCompile Include="源3.cpp" />
+    <ClCompile Include="源4.cpp" />
+    <ClCompile Include="源5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="标头.h" />

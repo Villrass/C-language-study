@@ -11,3 +11,8 @@ struct lianxi
     string home;
     int pan;
 };
+void add(lianxi arr[], int len);
+void printfcout(lianxi arr[], int len);
+void dele(lianxi arr[], int len);
+void fin(lianxi arr[], int len);
+void exchange(lianxi arr[], int len);
